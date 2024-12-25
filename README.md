@@ -6,7 +6,7 @@ Light version of the [Plastic](https://marketplace.visualstudio.com/items?itemNa
 - Simple and small color palette
 - Additional theme with deprioritized punctuation
 
-<a href="https://raw.githubusercontent.com/will-stone/plastic/main/screenshot.png" target="_blank"><img src="https://raw.githubusercontent.com/will-stone/plastic/main/screenshot.png" width="500" alt="Screenshot"></a>
+<a href="https://raw.githubusercontent.com/ProCode-Software/Plastic-Light/main/screenshot.png" target="_blank"><img src="https://raw.githubusercontent.com/ProCode-Software/Plastic-Light/main/screenshot.png" width="500" alt="Screenshot"></a>
 
 ## License
 
